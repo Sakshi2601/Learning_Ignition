@@ -97,4 +97,4 @@ This avoids accidents on live systems.
 
 ---
 
-If you want, I can convert this into a **Day 3.md** file style like your previous Day 1, Day 2 notes.
+ **End of Day 3 Notes** 
